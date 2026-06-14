@@ -64,6 +64,7 @@ Grab a key in [Polyvia Platform](https://app.polyvia.ai) → **Settings → API*
 Ingest a batch into a **group**, then ask one question across the whole corpus —
 answers cite the exact page in each document.
 
+#### Python SDK
 ```python
 from polyvia import Polyvia
 
@@ -81,6 +82,7 @@ print(client.query("How did revenue trend across the four quarters?",
                    group="FY24 Earnings").answer)
 ```
 
+#### JavaScript/TypeScript SDK
 ```ts
 import { Polyvia } from "polyvia";
 
