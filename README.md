@@ -6,7 +6,7 @@
 
 <br />
 
-### Multimodal Document Agents over 100K+ files
+### Polyvia: Multimodal Document Agents over 100K+ files
 
 We build enterprise agents for large-scale retrieval, research and automation over multimodal docs.
 
@@ -35,19 +35,21 @@ Claude Cowork, Codex) works only up to ~100 multimodal files — past that it's 
 slow, and at scale you still need **retrieval**. Polyvia does **sub-200ms** search
 over 100K+ files, every answer grounded in a cited source page.
 
-**2. End-to-end — no extractors or PDF parsers to stitch together.** When you build
+**2. End-to-end — no need for extractors or PDF parsers.** When you build
 large-scale multimodal RAG over a company's files, the only infra available today
 is visual extractors / PDF parsers (Reducto, LlamaIndex). There's no **end-to-end**
 infra for large-scale multimodal document retrieval — until Polyvia: **Visual
 Extractor → Multimodal Knowledge Ontology (mapping all your company's data and
-processes) → Agentic Retrieval with Memory**, one pipeline, not a stack of vendors.
+processes) → Agentic Retrieval with Memory**.
+
+**3. All unstructured, visual and multimodal data inputs in one API.** Available now: PDFs, charts, infographics, complex multi-page tables, slides, pictures, handwriting, scans, invoices, audio. Coming soon: video, healthcare scans / EHR, chemical & molecular data, CAD & technical drawings, heatmaps.
 
 ### What people build with it
+- **Multimodal RAG inside your own agent** — retrieval-as-a-tool over large doc sets.
 - **Data-room / due-diligence search** — query 100+ visual-heavy PDFs jointly (PE, IB, M&A).
 - **Counterparty & credit monitoring** — EBITDA, opex, revenue across hundreds of borrower reports.
-- **Multimodal RAG inside your own agent** — retrieval-as-a-tool over large doc sets.
 - **Image-based claim processing** — describe claim photos in the context of a policy.
-- **Cross-engagement knowledge search** — find answers buried in thousands of slides.
+- **Cross-engagement slide search** — find answers buried in thousands of slides.
 
 ## Install
 
@@ -132,6 +134,11 @@ npx skills add polyvia-ai/skills
 ```
 
 → [MCP docs](https://docs.polyvia.ai/products/mcp) · [Agent Skills](https://docs.polyvia.ai/products/skills)
+
+
+## Roadmap 2
+
+
 
 ## Roadmap
 
