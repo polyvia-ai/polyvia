@@ -116,6 +116,8 @@ curl -X POST https://app.polyvia.ai/api/v1/query \
 ```
 </details>
 
+→ [Full Developer Docs](https://docs.polyvia.ai/) 
+
 ## Use it from an agent
 
 **MCP** — connect Claude Code (or any MCP client) to the hosted Polyvia MCP server
@@ -134,11 +136,6 @@ npx skills add polyvia-ai/skills
 ```
 
 → [MCP docs](https://docs.polyvia.ai/products/mcp) · [Agent Skills](https://docs.polyvia.ai/products/skills)
-
-
-## Roadmap 2
-
-
 
 ## Roadmap
 
