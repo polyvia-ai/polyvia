@@ -18,7 +18,7 @@ We build enterprise agents for large-scale retrieval, research and automation ov
 [![PyPI](https://img.shields.io/pypi/v/polyvia?color=3b82f6&label=pip%20install%20polyvia)](https://pypi.org/project/polyvia)
 [![npm](https://img.shields.io/npm/v/polyvia?color=3b82f6&label=npm%20i%20polyvia)](https://www.npmjs.com/package/polyvia)
 
-[Docs](https://docs.polyvia.ai) · [Quickstart](https://docs.polyvia.ai/quickstart) · [Python SDK](https://github.com/polyvia-ai/polyvia-sdk-python) · [TypeScript SDK](https://github.com/polyvia-ai/polyvia-sdk-typescript) · [Platform](https://app.polyvia.ai)
+[Docs](https://docs.polyvia.ai) · [Quickstart](https://docs.polyvia.ai/quickstart) · [Python SDK](https://docs.polyvia.ai/products/python-sdk) · [TypeScript SDK](https://docs.polyvia.ai/products/js-sdk) · [Polyvia Platform](https://app.polyvia.ai) · [Homepage](https://polyvia.ai)
 
 </div>
 
@@ -101,20 +101,6 @@ console.log(answer.answer);
 
 Scope a query three ways: a single `document_id` (fastest), a `group` /
 `group_ids`, or the whole workspace (no scope).
-
-<details>
-<summary>…or raw HTTP (no SDK)</summary>
-
-```bash
-curl -X POST https://app.polyvia.ai/api/v1/ingest \
-  -H "Authorization: Bearer poly_<key>" \
-  -F "file=@q4-report.pdf"
-
-curl -X POST https://app.polyvia.ai/api/v1/query \
-  -H "Authorization: Bearer poly_<key>" -H "Content-Type: application/json" \
-  -d '{"query": "What was Q4 revenue, and which chart shows it?"}'
-```
-</details>
 
 → [Full Developer Docs](https://docs.polyvia.ai/) 
 
