@@ -129,7 +129,10 @@ npx skills add polyvia-ai/skills
 | --- | --- | --- | --- |
 | **Polyvia-1.0** | **Polyvia API** — Multimodal Document Retrieval API | Developers of AI agents | **Available now** |
 | **Polyvia-1.1** | **Polyvia Platform** — Research & Automation Agent over 100K+ multimodal docs | Knowledge workers in enterprises | **Coming soon** |
-| **Later** | **Polyvia Agents** — build your own agent for automating processes on large volumes of multimodal docs | Builders & teams | **Planned** |
+| **Later** | **Polyvia Agents** — build your own agent for automating processes on large volumes of multimodal docs | Builders & Teams | **Planned** |
+| **Later** | **More modalities** — video, healthcare scans / EHR, chemical & molecular data, CAD & technical drawings, heatmaps | Builders & teams | **Planned** |
+
+
 
 ## Release log
 
