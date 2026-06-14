@@ -11,7 +11,6 @@
 We build enterprise agents for large-scale retrieval, research and automation over multimodal docs.
 
 [![GitHub stars](https://img.shields.io/github/stars/polyvia-ai/polyvia.svg?style=social&label=Star&maxAge=2592000)](https://github.com/polyvia-ai/polyvia/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/polyvia-ai/polyvia.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/polyvia-ai/polyvia/network/)
 [![GitHub commits](https://badgen.net/github/commits/polyvia-ai/polyvia)](https://github.com/polyvia-ai/polyvia/commits/)
 [![GitHub tag](https://badgen.net/github/tag/polyvia-ai/polyvia)](https://github.com/polyvia-ai/polyvia/tags/)
 
