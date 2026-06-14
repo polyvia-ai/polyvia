@@ -12,7 +12,7 @@ We build enterprise agents for large-scale retrieval, research and automation ov
 
 [![GitHub stars](https://img.shields.io/github/stars/polyvia-ai/polyvia.svg?style=social&label=Star&maxAge=2592000)](https://github.com/polyvia-ai/polyvia/stargazers/)
 [![GitHub commits](https://badgen.net/github/commits/polyvia-ai/polyvia)](https://github.com/polyvia-ai/polyvia/commits/)
-[![GitHub tag](https://badgen.net/github/tag/polyvia-ai/polyvia)](https://github.com/polyvia-ai/polyvia/tags/)
+[![version](https://img.shields.io/badge/version-1.0-3b82f6)](https://github.com/polyvia-ai/polyvia/tags/)
 
 [![Docs](https://img.shields.io/badge/docs-docs.polyvia.ai-3b82f6)](https://docs.polyvia.ai)
 [![PyPI](https://img.shields.io/pypi/v/polyvia?color=3b82f6&label=pip%20install%20polyvia)](https://pypi.org/project/polyvia)
