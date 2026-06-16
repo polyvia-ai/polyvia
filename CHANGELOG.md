@@ -3,7 +3,7 @@
 All notable changes to Polyvia are documented here. The full release notes live
 at [docs.polyvia.ai/versions](https://docs.polyvia.ai/versions).
 
-## [1.0.0] — 2026-06-15 · Polyvia-1.0 — Polyvia API
+## [1.1.0] — 2026-06-15 · Polyvia-1.1 — Polyvia API
 
 First public release. **Polyvia API** — a Multimodal Document Retrieval API, for
 developers of AI agents.
@@ -26,14 +26,14 @@ developers of AI agents.
 
 ## Up next
 
-- **Polyvia-1.1 — Polyvia Platform** — Research & Automation Agent over 100K+
+- **Polyvia-1.2 — Polyvia Platform** — Research & Automation Agent over 100K+
   multimodal docs, for knowledge workers in enterprises: chat with reliable
   citations, knowledge-graph view, faster ingestion (uploads up to 50 MB,
   Office/Google formats), usage/API settings, and integrations (Drive, Dropbox,
   OneDrive/SharePoint, S3, Notion, Slack).
 - **More modalities** — healthcare scans / EHR, chemical & molecular data, CAD &
-  technical drawings, video, geospatial.
+  technical drawings, video, heatmaps.
 - **Polyvia Agents** — build your own agent for automating processes on large
   volumes of multimodal documents.
 
-[1.0.0]: https://github.com/polyvia-ai/polyvia/releases/tag/v1.0.0
+[1.1.0]: https://github.com/polyvia-ai/polyvia/releases/tag/v1.1.0

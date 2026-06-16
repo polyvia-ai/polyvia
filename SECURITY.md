@@ -4,7 +4,7 @@
 
 Please report security issues privately — **do not** open a public GitHub issue.
 
-Email **[senyao@polyvia.ai](mailto:senyao@polyvia.ai)** with:
+Email **[mateusz@polyvia.ai](mailto:mateusz@polyvia.ai)** or **[senyao@polyvia.ai](mailto:senyao@polyvia.ai)** with:
 
 - A description of the issue and its potential impact.
 - Steps to reproduce (a minimal proof-of-concept if possible).
@@ -24,4 +24,4 @@ we investigate and ship a fix. We're happy to credit reporters who'd like it.
 ## Enterprise & data residency
 
 For regulated deployments, Polyvia can run **on-prem / in your own VPC** so
-documents never leave your systems. Contact [senyao@polyvia.ai](mailto:senyao@polyvia.ai).
+documents never leave your systems. Contact [mateusz@polyvia.ai](mailto:mateusz@polyvia.ai) or [senyao@polyvia.ai](mailto:senyao@polyvia.ai).

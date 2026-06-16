@@ -36,4 +36,4 @@ Please do **not** open public issues for security reports — see [SECURITY.md](
 
 ## Questions
 
-Email [senyao@polyvia.ai](mailto:senyao@polyvia.ai).
+Email [mateusz@polyvia.ai](mailto:mateusz@polyvia.ai) or [senyao@polyvia.ai](mailto:senyao@polyvia.ai).

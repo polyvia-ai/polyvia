@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 362" width="1200" height="362" role="img" aria-label="Polyvia supported modalities">
+<rect x="1" y="1" width="1198" height="360" rx="20" fill="#0f1830" stroke="rgba(185,166,251,0.18)"/>
+<text x="56" y="56" font-size="26" fill="#f4f5ff" font-family="Outfit, Inter, Arial, sans-serif" font-weight="700">Supported modalities</text>
+<text x="56" y="84" font-size="15" fill="#b9a6fb" font-family="Inter, Arial, sans-serif" font-weight="600" letter-spacing="0.5">VISUAL DOCUMENT INTELLIGENCE + AUDIO · LIVE TODAY</text>
+<text x="56" y="244" font-size="13" fill="#8a90a8" font-family="Inter, Arial, sans-serif" font-weight="600" letter-spacing="1.5">COMING SOON</text>
+<rect x="56" y="110" width="82" height="40" rx="20" fill="#1b2547" stroke="rgba(185,166,251,0.40)"/>
+<text x="97" y="135" text-anchor="middle" font-size="15" fill="#d9d2fb" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Charts</text>
+<rect x="150" y="110" width="147" height="40" rx="20" fill="#1b2547" stroke="rgba(185,166,251,0.40)"/>
+<text x="224" y="135" text-anchor="middle" font-size="15" fill="#d9d2fb" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Graphs &amp; plots</text>
+<rect x="309" y="110" width="131" height="40" rx="20" fill="#1b2547" stroke="rgba(185,166,251,0.40)"/>
+<text x="374" y="135" text-anchor="middle" font-size="15" fill="#d9d2fb" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Infographics</text>
+<rect x="452" y="110" width="236" height="40" rx="20" fill="#1b2547" stroke="rgba(185,166,251,0.40)"/>
+<text x="570" y="135" text-anchor="middle" font-size="15" fill="#d9d2fb" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Complex multi-page tables</text>
+<rect x="700" y="110" width="147" height="40" rx="20" fill="#1b2547" stroke="rgba(185,166,251,0.40)"/>
+<text x="774" y="135" text-anchor="middle" font-size="15" fill="#d9d2fb" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Slides &amp; decks</text>
+<rect x="859" y="110" width="171" height="40" rx="20" fill="#1b2547" stroke="rgba(185,166,251,0.40)"/>
+<text x="944" y="135" text-anchor="middle" font-size="15" fill="#d9d2fb" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Reports &amp; filings</text>
+<rect x="1042" y="110" width="74" height="40" rx="20" fill="#1b2547" stroke="rgba(185,166,251,0.40)"/>
+<text x="1079" y="135" text-anchor="middle" font-size="15" fill="#d9d2fb" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Scans</text>
+<rect x="56" y="162" width="163" height="40" rx="20" fill="#1b2547" stroke="rgba(185,166,251,0.40)"/>
+<text x="138" y="187" text-anchor="middle" font-size="15" fill="#d9d2fb" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Invoices &amp; forms</text>
+<rect x="231" y="162" width="123" height="40" rx="20" fill="#1b2547" stroke="rgba(185,166,251,0.40)"/>
+<text x="292" y="187" text-anchor="middle" font-size="15" fill="#d9d2fb" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Handwriting</text>
+<rect x="366" y="162" width="204" height="40" rx="20" fill="#1b2547" stroke="rgba(185,166,251,0.40)"/>
+<text x="468" y="187" text-anchor="middle" font-size="15" fill="#d9d2fb" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Diagrams &amp; flowcharts</text>
+<rect x="582" y="162" width="155" height="40" rx="20" fill="#1b2547" stroke="rgba(185,166,251,0.40)"/>
+<text x="660" y="187" text-anchor="middle" font-size="15" fill="#d9d2fb" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Photos &amp; images</text>
+<rect x="749" y="162" width="74" height="40" rx="20" fill="#1b2547" stroke="rgba(185,166,251,0.40)"/>
+<text x="786" y="187" text-anchor="middle" font-size="15" fill="#d9d2fb" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Audio</text>
+<rect x="56" y="266" width="74" height="40" rx="20" fill="none" stroke="rgba(150,158,190,0.45)" stroke-dasharray="4 4"/>
+<text x="93" y="291" text-anchor="middle" font-size="15" fill="#99a0bd" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Video</text>
+<rect x="142" y="266" width="212" height="40" rx="20" fill="none" stroke="rgba(150,158,190,0.45)" stroke-dasharray="4 4"/>
+<text x="248" y="291" text-anchor="middle" font-size="15" fill="#99a0bd" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Healthcare scans / EHR</text>
+<rect x="366" y="266" width="196" height="40" rx="20" fill="none" stroke="rgba(150,158,190,0.45)" stroke-dasharray="4 4"/>
+<text x="464" y="291" text-anchor="middle" font-size="15" fill="#99a0bd" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Chemical &amp; molecular</text>
+<rect x="574" y="266" width="228" height="40" rx="20" fill="none" stroke="rgba(150,158,190,0.45)" stroke-dasharray="4 4"/>
+<text x="688" y="291" text-anchor="middle" font-size="15" fill="#99a0bd" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">CAD &amp; technical drawings</text>
+<rect x="814" y="266" width="115" height="40" rx="20" fill="none" stroke="rgba(150,158,190,0.45)" stroke-dasharray="4 4"/>
+<text x="872" y="291" text-anchor="middle" font-size="15" fill="#99a0bd" font-family="Inter, Outfit, Arial, sans-serif" font-weight="500">Heatmaps</text>
+</svg>
