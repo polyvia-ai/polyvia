@@ -28,6 +28,8 @@ We’re releasing Polyvia 1, as two products:
 - **Polyvia API: Multimodal Document Retrieval API** (for developers of AI agents) - <u>available now</u>.
 - **Polyvia Platform: Research and Automation Agent over 100K+ multimodal docs** (for knowledge workers in enterprises) - <u>coming soon</u>.
 
+We index your unstructured & visual & multimodal docs (PDFs, charts, slides, complex tables, infographics, scans, handwriting, invoices, and more) into multimodal knowledge ontology, with agents running on top for retrieval, research and automation — every answer grounded in a cited source page, in sub-200ms.
+
 ## Why Polyvia
 
 **1. Fast over 100K+ multimodal docs.** Agentic, file-by-file search (Claude Code,
