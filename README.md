@@ -188,8 +188,8 @@ We update this as we ship — latest first. Full notes at [docs.polyvia.ai/versi
 
 | | Install | Source |
 | --- | --- | --- |
-| Python | `pip install polyvia` | [polyvia-sdk-python](https://docs.polyvia.ai/products/python-sdk) |
-| TypeScript | `npm install polyvia` | [polyvia-sdk-typescript](https://docs.polyvia.ai/products/js-sdk) |
+| Python | `pip install polyvia` | [docs.polyvia.ai/products/python-sdk](https://docs.polyvia.ai/products/python-sdk) |
+| TypeScript | `npm install polyvia` | [docs.polyvia.ai/products/js-sdk](https://docs.polyvia.ai/products/js-sdk) |
 | REST API | — | [docs.polyvia.ai/api-reference](https://docs.polyvia.ai/api-reference/introduction) |
 | MCP | hosted · `app.polyvia.ai/mcp` | [docs.polyvia.ai/products/mcp](https://docs.polyvia.ai/products/mcp) |
 | Agent Skills | `npx skills add polyvia-ai/skills` | [docs.polyvia.ai/products/skills](https://docs.polyvia.ai/products/skills) |
